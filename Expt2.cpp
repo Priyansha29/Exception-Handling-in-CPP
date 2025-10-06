@@ -1,6 +1,7 @@
-//Name: Nishka Ranadive
-//PRN: 24070123082
-//Exp-16
+//Priyansha
+//24070123079
+//ENTC-A3
+
 
 //Program-2
 #include<iostream>
